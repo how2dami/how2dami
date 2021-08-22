@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @how2dami
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I'm @ how2dami
+- 👀 I'm interested in technology, programming and design
+- 🌱 I'm currently learning to program, english, mtb (bmx) tricks
+- 💞️ I am looking for a job in designing, programming, designing
+- 📫 How to reach me "how2damian@outlook.de"
 
 <!---
 how2dami/how2dami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
